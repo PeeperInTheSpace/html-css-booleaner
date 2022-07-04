@@ -67,3 +67,16 @@ h1 {
 .highlighted {
     background-color: yellow;
 }
+
+th {
+    background-color: #4ea0ff;
+    color: white;
+}
+
+.backcolor {
+    background-color: #8fc0f8;
+}
+
+.tdspace {
+    padding: 1%;
+}
