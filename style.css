@@ -7,30 +7,63 @@ header {
     width: 100%;
 }
 
-.logo {
-    width: 15%;
-    padding-top: 90px;
+#logo {
+    width: 18%;
+    padding-top: 80px;
     padding-left: 15px;
 }
 
 .title {
-    font-size: 80px;
-    margin-top: 1%;
-    margin-bottom: 0%;
+    width: 100%;
+    font-size: 50px;
+    margin: 0%;
+}
+
+h1 {
+    margin: 0%;
 }
 
 .author {
     color: #7a7a7a;
     margin-top: 0%;
     padding: 0%;
-    font-size: 40px;
+    font-size: 30px;
     display: block;
 }
 
 .date {
     color: #7a7a7a;
     margin-top: 0%;
+    margin-bottom: 2%;
     padding: 0%;
-    font-size: 25px;
+    font-size: 15px;
     display: block;
+}
+
+.pic1 {
+    display: inline;
+    width: 40%;
+}
+
+
+.pic2 {
+    display: inline;
+    width: 40%;
+}
+
+.pics {
+    width: 800px;
+    height: 600px;
+}
+
+.captioncontainer {
+    margin-bottom: 2%;
+}
+
+.caption {
+    display: block;
+}
+
+.highlighted {
+    background-color: yellow;
 }
