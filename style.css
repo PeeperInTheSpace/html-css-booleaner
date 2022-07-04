@@ -2,10 +2,35 @@ header {
     background-color: #4ea0ff;
     background-image: url(img/pattern.png);
     background-repeat: repeat-x;
-    height: 175px;
+    background-position-x: right;
+    height: 170px;
+    width: 100%;
 }
 
 .logo {
-    width: 10%;
-    
+    width: 15%;
+    padding-top: 90px;
+    padding-left: 15px;
+}
+
+.title {
+    font-size: 80px;
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
+
+.author {
+    color: #7a7a7a;
+    margin-top: 0%;
+    padding: 0%;
+    font-size: 40px;
+    display: block;
+}
+
+.date {
+    color: #7a7a7a;
+    margin-top: 0%;
+    padding: 0%;
+    font-size: 25px;
+    display: block;
 }
